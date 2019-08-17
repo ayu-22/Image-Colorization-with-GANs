@@ -9,7 +9,7 @@ I have used colornet dataset which is public dataset on FloydHub. A total of 500
 
 **Model Architecture**
 
-![model](color_gan_model.png)
+![model](color_gan_model.PNG)
 
 ## Results
 As I menetioned earlier I used small dataset and train the model on low epochs. So my results were not as good as in the original paper. Some of the good results are here.
