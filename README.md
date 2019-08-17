@@ -26,7 +26,7 @@ These are traing images result for model trained on the basis of original paper.
 
 grey scale image---------------model colorized image-----------actual color image
 
-![black](images/original/ac_black.png) ![color](images/original/ac_color.png) ![actual](images/original/ac_actual.png) 
+![black](images/original/ac_black.PNG) ![color](images/original/ac_color.PNG) ![actual](images/original/ac_actual.PNG) 
 
 
 
@@ -34,9 +34,9 @@ The following are the results of model trained by new hyperparametrs and doing a
 
 **On training data**
 
-![black](images/new/black_new.png) ![color](images/new/color_new.png) ![actual](images/new/actual_new.png) 
+![black](images/new/black_new.PNG) ![color](images/new/color_new.PNG) ![actual](images/new/actual_new.PNG) 
 
 **On test data**
 
-![black](images/new/blackte_new.png) ![color](images/new/colorte_new.png) ![actual](images/new/actualte_new.png) 
+![black](images/new/blackte_new.PNG) ![color](images/new/colorte_new.PNG) ![actual](images/new/actualte_new.PNG) 
 
