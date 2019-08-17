@@ -24,7 +24,7 @@ These are traing images result for model trained on the basis of original paper.
 
 **On training data**
 
-grey scale image---------------model colorized image-----------actual color image
+grey scale image------------------------model colorized image-----------actual color image
 
 ![black](images/original/ac_black.PNG) ![color](images/original/ac_color.PNG) ![actual](images/original/ac_actual.PNG) 
 
